@@ -1,0 +1,8 @@
+{
+  "short_name": "Pokemons App",
+  "name": "An app to filter pokemons by type",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
