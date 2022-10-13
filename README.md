@@ -1,9 +1,11 @@
 ## Steps to run an app
 1. Install dependencies for both client and server, e.g. 
-    ```cd server
-       npm install ```
-    ```cd client
-       npm install ```
+    ```
+    cd server
+    npm install
+    cd client
+    npm install 
+    ```
 2. Start the server with node index.js from server folder. e.g
     `cd server
     node index.js`
